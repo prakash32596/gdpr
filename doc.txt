@@ -1,0 +1,5 @@
+FONTS: Poppins Regular|Semi Bold| Bold
+
+Accent colour: #319BFF
+Heading colour: #2E1447
+Body color: #606060
